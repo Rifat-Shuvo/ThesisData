@@ -7,3 +7,6 @@ https://raw.githubusercontent.com/Rifat-Shuvo/ThesisData/main/Method_and_Materia
 # test method links
 
 https://raw.githubusercontent.com/Rifat-Shuvo/ThesisData/main/Test%20of%20species.pdf
+
+# Refrence file:
+https://raw.githubusercontent.com/Rifat-Shuvo/ThesisData/refs/heads/main/S.%20cerevisiae%20A.N.M%20Mamun%20Or%20Rashid%20thesis%20paper.pdf
